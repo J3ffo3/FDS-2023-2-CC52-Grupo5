@@ -2,7 +2,7 @@
 # TRABAJO FINAL
 ### 2023-02
 
-## **Objetivo del proyecto**
+## Objetivo del proyecto
 
 El objetivo principal es dar respuesta a cuatro tipos de requerimientos los cuales cuentan con una cierta cantidad de preguntas y de esa manera sacar conclusiones con buen fundamento a raíz de los datos analizados.
 
