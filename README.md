@@ -59,4 +59,4 @@ El objetivo principal es dar respuesta a cuatro tipos de requerimientos los cual
 - Existe una correlación positiva entre el número de vídeos sobrevalorados y el número de comentarios positivos, con cierta variación mensual. Es importante señalar que la correlación no implica causalidad y que otros factores pueden influir en los resultados.
 
 ## **Licencia de Uso**
-Este trabajo está bajo la Licencia MIT.
+Este proyecto está bajo la Licencia MIT.
