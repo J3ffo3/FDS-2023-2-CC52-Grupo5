@@ -2,26 +2,26 @@
 # TRABAJO FINAL
 ### 2023-02
 
-## Objetivo del proyecto
+## **Objetivo del proyecto**
 
 El objetivo principal es dar respuesta a cuatro tipos de requerimientos los cuales cuentan con una cierta cantidad de preguntas y de esa manera sacar conclusiones con buen fundamento a raíz de los datos analizados.
 
-## **Por Categoría de Videos**
+## Por Categoría de Videos
 1. ¿Qué categorías de videos son las de mayor tendencia?
 2. ¿Qué categorías de videos son los que más gustan? ¿Y las que menos gustan?
 3. ¿Qué categorías de videos tienen la mejor proporción (ratio) de “Me gusta” / “No megusta”?
 4. ¿Qué categorías de videos tienen la mejor proporción (ratio) de “Vistas” /“Comentarios”?
 
-## **Por el tiempo transcurrido**
+## Por el tiempo transcurrido
 5. ¿Cómo ha cambiado el volumen de los videos en tendencia a lo largo del tiempo?
 
-## **Por Canales de YouTube**
+## Por Canales de YouTube
 6. ¿Qué Canales de YouTube son tendencia más frecuentemente? ¿Y cuáles con menos frecuencia?
 
-## **Por la geografía del país**
+## Por la geografía del país
 7. ¿En qué Estados se presenta el mayor número de “Vistas”, “Me gusta” y “No me gusta”?
 
-Adicionalmente, al cliente le gustaría conocer si:
+## Adicionalmente, al cliente le gustaría conocer si:
 8. ¿Es factible predecir el número de “Vistas” o “Me gusta” o “No me gusta”?
 9. ¿Los videos en tendencia son los que mayor cantidad de comentarios positivos reciben?
 
